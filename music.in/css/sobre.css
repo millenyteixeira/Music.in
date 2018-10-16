@@ -1,0 +1,174 @@
+/*CSS*/
+
+*{margin: 0; padding: 0;}
+
+body {
+  /*background-image: url("../img/partitura_da_natureza1.jpg");
+  background-repeat: no-repeat;*/
+
+  background-image: url("../img/background3.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#topo{
+  background-color:#5F9EA0;
+  text-align: center;
+  font-family: Snell Roundhand;
+  position: relative;
+}
+
+#barra-lateral{
+   position: absolute;
+  left: 15px;
+}
+
+#feed-de-indicações{
+  padding: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  border: 1px solid black;
+  width: 70%;
+}
+
+#feed-de-indicações input{
+  display: block;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  font-family:'Righteous', cursive;
+  text-align: center;
+  color:  white;
+}
+
+.borda_texto{
+-webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color: #000;
+font-size: 3em; color: #fff;
+}
+
+.w3-container {
+  position: relative;
+}
+
+.w3-container p {
+  text-align: right;
+  font-size: 10px;
+}
+.w3-container .buscar {
+  position: absolute;
+  right: 0px;
+  top: 40px;
+  right: 15px;
+  font-size: 10px;
+}
+
+.w3-container .botao-notificacao{
+  position: absolute;
+  right: 0px;
+  top: -30px;
+  right: 0px;
+  font-size: 10px;
+}
+#logo {
+  color:blue;
+}
+.imagem-logo {
+  position: absolute;
+  left: 605px;
+  top: 5px;
+}
+
+.imagem-post {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#botao-ind {
+  margin-right: 10px;
+}
+
+#card {
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+#conteudo h1 {
+  font-family:
+}
+
+#conteudo h2 {
+  text-align: center;
+}
+
+#post {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  display: inline-flex;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  color: OrangeRed;
+}
+p{
+font-family: 'Mate', serif;
+text-align: center;
+font-size: x-large;
+}
+
+
+
+
+/*button:hover{
+  background: #666 url('botao_hover.gif') no-repeat
+  center center;
+  color:#999;
+  padding: 0.4px;
+}*/
+
+/*.menu{
+  list-style:none;
+  border:1px solid #c0c0c0;
+  float:left;
+}
+
+.menu li{
+  position:relative;
+
+}
+
+.menu li a{color:#333; text-decoration:none; padding:5px 10px; display:block;}
+
+.menu li a:hover{
+  background:#333;
+  color:#fff;
+  -moz-box-shadow:0 3px 10px 0 #CCC;
+  -webkit-box-shadow:0 3px 10px 0 #ccc;
+  text-shadow:0px 0px 5px #fff;
+}
+
+.menu li  ul{
+  position:absolute;
+  top:25px;
+  left:0;
+  background-color:#fff;
+  display:none;
+}
+
+.menu li:hover ul, .menu li.over ul{display:block;}
+
+.menu li ul li{
+  border:1px solid #c0c0c0;
+  display:block;
+  width:150px;
+}*/
